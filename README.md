@@ -1,2 +1,2 @@
 # CKS-new
-https://cksvolunteers.github.io/CKS-new/
+[CKS-website](https://cksvolunteers.github.io/CKS-new/)
